@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>adobesign</id>
+    <name>AdobeSign</name>
+    <description>Adds a custom column to orders.</description>
+    <version>1.0</version>
+    <compatibility>
+        <version>4.18.1</version>
+    </compatibility>
+</addon>
